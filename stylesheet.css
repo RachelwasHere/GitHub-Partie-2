@@ -1,4 +1,19 @@
 body {
+	margin-top: 50px;
 	background-color: #ffffff; 
 	color: #317EAC;
+	font-family:  'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1, h2, footer {
+	text-align: left;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+article {
+	margin: 100px;
+	padding-left: 100px;
+	padding-right: 100px; 
+	text-align: justify;
 }
